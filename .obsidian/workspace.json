@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown"
+              "title": "README"
             }
           }
         ],
@@ -191,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44b7326dafcbafb8",
+  "active": "4f0bd28fb038efc5",
   "lastOpenFiles": [
     "Маленькие кобольды и большие проблемы/Введение/Введение.md",
-    "Markdown.md",
+    "README.md",
     "Маленькие кобольды и большие проблемы/Запрос/Запрос.md",
     "Маленькие кобольды и большие проблемы/Персонажи/Персонажи.md",
     "Маленькие кобольды и большие проблемы/Запрос",
